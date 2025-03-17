@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "broad-cloud-525a",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3a20eb6c-be20-448e-bae7-28063819431c",
+      "database_name": "odd-night-f23c-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
